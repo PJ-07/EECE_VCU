@@ -1,2 +1,2 @@
 # EECE_VCU
-Vehicle COntrol Unit (VCU)
+Vehicle Control Unit (VCU)
